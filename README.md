@@ -1,4 +1,4 @@
-# MedicalFlow Product
+# MedicalFlow System
 
 
 **MedicalFlow** is a sophisticated appointment management system designed specifically for medical facilities, leveraging the power of IoT (Internet of Things) technology. It enhances the efficiency and safety of clinical appointments through features like real-time queue monitoring, room occupancy detection, and emergency alerts.
