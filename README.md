@@ -58,10 +58,4 @@ The MedicalFlow System integrates various sensors and outputs to monitor and man
 
 The primary goal of the MedicalFlow System is to streamline the appointment process in medical facilities, reducing wait times, enhancing patient safety, and improving the overall efficiency of medical consultations.
 
-## Contributing
 
-We welcome contributions! If you have suggestions or want to improve the MedicalFlow System, please fork the repository and create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
